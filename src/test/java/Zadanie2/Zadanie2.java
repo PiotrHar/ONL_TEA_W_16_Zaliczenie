@@ -1,4 +1,4 @@
-package Zadanie1;
+package Zadanie2;
 
 import io.cucumber.java.en.Given;
 import org.openqa.selenium.By;
